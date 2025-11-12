@@ -1,6 +1,6 @@
 # Resonate Technical Assignment - Contacts Application
 
-Deployed solution link - [Contacts Application]()
+Deployed solution link - [Contacts Application](https://resonatecontactapp.netlify.app/)
 
 High Level Overview - [if image below doesn't load](https://i.ibb.co/wh2HRGGx/resonate-app-diagram.png)
 
