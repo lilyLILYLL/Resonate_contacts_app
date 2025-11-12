@@ -16,7 +16,7 @@ High Level Overview - [if image below doesn't load](https://i.ibb.co/wh2HRGGx/re
 
 3. Then navigate into the project's root folder
 
-### `cd contacts-app`
+### `cd Resonate_contacts_app`
 
 4. Install dependencies
 
